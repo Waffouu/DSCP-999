@@ -1,0 +1,33 @@
+.tudo
+{
+    background-image: url("images/fundo.png");
+    background-attachment: fixed;
+    background-size: auto;
+    color: #c69854;
+    font-family: "Dela Gothic One";
+}
+
+.container
+{
+    background-image: url("images/fundo3.png");
+    background-size: cover;
+    height: 1000px;
+}
+
+.bar
+{
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.barra
+{
+    height: 1000px;
+    width: auto;    
+}
+
+.azul 
+{
+    color: #333d77 !important;
+}
