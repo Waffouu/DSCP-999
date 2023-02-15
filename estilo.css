@@ -10,8 +10,7 @@
 .container
 {
     background-image: url("images/fundo3.png");
-    background-size: cover;
-    height: 1000px;
+    background-size:contain;
 }
 
 .bar
@@ -30,4 +29,26 @@
 .azul 
 {
     color: #333d77 !important;
+}
+
+.um
+{
+    font-size:larger;
+}
+
+.verm
+{
+    color: red !important;
+}
+
+.branco
+{
+    color:gainsboro !important;
+}
+
+.baixo
+{
+    background-image: url("images/fundo4.png");
+    background-size:contain;
+    width: auto;
 }
